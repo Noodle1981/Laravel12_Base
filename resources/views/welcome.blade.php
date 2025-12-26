@@ -52,6 +52,9 @@
                         <span class="block bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
                             Starter Kit
                         </span>
+                        <span class="block text-white text-sm">
+                            by Grupo Xamanen
+                        </span>
                     </h1>
 
                     <!-- Description -->
